@@ -82,7 +82,7 @@ docker run -d -p 8000:8080 --restart="always" <youruser>/dillinger:${package.jso
 127.0.0.1:8000
 ```
 ```javascript
-127.0.0.1:8000
+127.0.0.1:8000 fhjhghl
 ```
 ##### Phần Sub 5
 
@@ -92,8 +92,10 @@ Chèn hình ảnh
 
 ###### Phần Sub 6
 Định dạng kiểu chữ
-
+*Kiểu in nghiêng*
+**Kiểu in đậm**
 ~~Kiểu gạch bỏ~~
+****
 
-[back to top](#openstack-2020)
+[back to top](#)
 ### <a name="1.1"><a/>**Phần sub 1**
