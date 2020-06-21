@@ -1,5 +1,4 @@
-#top
-# Hướng dẫn viết Readme
+# Hướng dẫn viết Readme :tw-2615: 
 
 [![W|Lamwebmienphi](https://cldup.com/dTxpPi9lDf.thumb.png)](https://lamwebmienphi.com)
 
@@ -26,7 +25,7 @@ Phần trình bày ghi chú.
 
 Hướng dẫn chèn link website:
 
-* [Lamwebmienphi](https://lamwebmienphi.com) - Chèn link website vào
+* [Lamwebmienphi](https://lamwebmienphi.com "Thiết kế website miễn phí") - Chèn link website vào
 
 Bạn biết cách chén link vào [lam web mien phi](https://lamwebmienphi.com)
 trên GitHub.
